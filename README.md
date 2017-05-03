@@ -1,5 +1,5 @@
-Docker debootstrap brew by TUSHARS from TECHPEEK
--------------------------------------------------
+Docker debootstrap brew by tushars from techpeek.in
+---------------------------------------------------
 
 Features:
 - Optimised 2 layer docker image

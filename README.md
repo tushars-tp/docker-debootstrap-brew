@@ -2,7 +2,7 @@ Docker debootstrap brew by tushars from techpeek.in
 ---------------------------------------------------
 
 Features:
-- Optimised 2 layer docker image
+- Compact docker image
 - Docker bug fixes
 - dumb-init (A minimal init system for containers)
 - supervisor (Process control system)

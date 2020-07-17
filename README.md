@@ -9,4 +9,4 @@ Features:
 - sshd service (exposes port 22 by default)
 
 Usage:
-docker run -d -it <docker-image>
+docker run -d -it \<docker-image\>
